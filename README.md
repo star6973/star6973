@@ -71,9 +71,7 @@ Sunday       52 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-![star6973's GitHub stats](https://github-readme-stats.vercel.app/api?username=star6973&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star6973&layout=compact&hide=jupyter%20notebook,html,css,scss&langs_count=4&theme=prussian)
+    
 ![Metrics](https://github.com/star6973/star6973/blob/main/github-metrics.svg)
 
 </details>

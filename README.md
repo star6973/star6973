@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :closed_book: Programming Languages
+#### :closed_book: Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -9,7 +9,7 @@
 ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
 ![MarkDown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
-### :orange_book: Frameworks
+#### :orange_book: Frameworks
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expressjs](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)
@@ -19,12 +19,12 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### :green_book: Version Control
+#### :green_book: Version Control
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### :blue_book: Cryptocurrency
+#### :blue_book: Cryptocurrency
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 <details>
@@ -66,7 +66,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**My 💖 languages JavaScript** 
 
 ```text
 JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
@@ -77,9 +77,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-
- Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
 
 </details>

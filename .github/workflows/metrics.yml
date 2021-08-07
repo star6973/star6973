@@ -15,13 +15,6 @@ jobs:
           # GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # ... other options
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-          config_timezone: Asia/Seoul # Set timezone
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements

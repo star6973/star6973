@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: star6973/metrics@latest, star6973/waka-readme-stats@master
+      - uses: star6973/metrics@latest
         with:
           # GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           # WAKA Time token
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           

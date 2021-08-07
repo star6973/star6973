@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star6973&show_icons=true&theme=maroongold)](https://github.com/star6973/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=star6973&repo=star6973)](https://github.com/star6973/star6973)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star6973&layout=compact&theme=maroongold)](https://github.com/star6973/github-readme-stats)

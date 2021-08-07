@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ Metrics ](https://github.com/star6973/star6973/blob/main/github-metrics.svg)
+![Metrics](https://github.com/star6973/star6973/blob/main/github-metrics.svg)
 
 <br><br>
 
@@ -48,22 +48,6 @@ Here are some ideas to get you started:
 일요일          52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16%
 
 ```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-
-💻 운영 체제들: 
-이번 주에 활동은 없어요.
-
-```
-
 
  Last Updated on 07/08/2021
 <!--END_SECTION:waka-->

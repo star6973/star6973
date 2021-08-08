@@ -3,7 +3,7 @@ name: GITHUB WAKA
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:

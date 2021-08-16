@@ -22,7 +22,7 @@
 ## :computer: GitHub Activities<br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-598-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-599-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-878042%20lines%20of%20code-blue)
 
@@ -53,16 +53,16 @@ Sunday       63 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-mec-sero-app             12 hrs 34 mins      ████████████░░░░░░░░░░░░░   50.09% 
-react-js-hooks           7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   30.64% 
-react-js-component-stylin3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-javascript-practice      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-react-js-todo-app        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+mec-sero-app             12 hrs 8 mins       ██████████████░░░░░░░░░░░   59.19% 
+react-js-hooks           3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
+react-js-component-stylin3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
+javascript-practice      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
+react-js-todo-app        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
 
 
- Last Updated on 15/08/2021
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
 
 

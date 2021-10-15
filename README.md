@@ -70,3 +70,6 @@ installer                44 mins             █░░░░░░░░░░�
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star6973&show_icons=true&theme=prussian)](https://github.com/star6973/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star6973&layout=compact&hide=jupyter%20notebook,html,css,scss&langs_count=4&theme=prussian)](https://github.com/star6973/github-readme-stats)
+
+## Problem Solving Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whanny)](https://solved.ac/whanny/)

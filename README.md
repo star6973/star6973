@@ -22,29 +22,29 @@
 ## :computer: GitHub Activities<br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-954420%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-954251%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-🌆 Daytime    288 commits    ████████░░░░░░░░░░░░░░░░░   33.64% 
-🌃 Evening    428 commits    ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
+🌞 Morning    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+🌆 Daytime    288 commits    ████████░░░░░░░░░░░░░░░░░   33.68% 
+🌃 Evening    427 commits    ████████████░░░░░░░░░░░░░   49.94% 
+🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Tuesday      127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Wednesday    168 commits    █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-Thursday     142 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Friday       123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-Sunday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
+Monday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Tuesday      127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+Wednesday    171 commits    █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Thursday     146 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+Friday       115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
+Sunday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
 
 ```
 
@@ -62,7 +62,7 @@ installer                44 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 
@@ -71,5 +71,6 @@ installer                44 mins             █░░░░░░░░░░�
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=star6973&show_icons=true&theme=prussian)](https://github.com/star6973/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star6973&layout=compact&hide=jupyter%20notebook,html,css,scss&langs_count=4&theme=prussian)](https://github.com/star6973/github-readme-stats)
 
-## Problem Solving Level
+## :trident: Problem Solving Level<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whanny)](https://solved.ac/whanny/)

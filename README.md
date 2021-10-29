@@ -22,9 +22,9 @@
 ## :computer: GitHub Activities<br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-948308%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-948091%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,16 +53,16 @@ Sunday       77 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-2021_mec_sero_app        27 mins             ██████████░░░░░░░░░░░░░░░   40.85% 
-qnc-jimbot-app           16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-installer                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-carof_hri_pkgs           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-content_pkg              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
+2021_mec_sero_app        27 mins             ██████████░░░░░░░░░░░░░░░   40.45% 
+qnc-jimbot-app           16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55% 
+installer                12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
+carof_hri_pkgs           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+content_pkg              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
 
 ```
 
 
- Last Updated on 28/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 
